@@ -1,0 +1,2 @@
+User-agent: *
+Host: https://xn----7sbgjfran1adece4as5e.xn--p1ai
